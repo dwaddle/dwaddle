@@ -4,3 +4,5 @@ Open Source Contributor & Quantitative Software Developer.
 
 - 🛠️ Active contributor to TypeScript, Python, and Node.js open-source ecosystems.
 - 🎯 Focused on robust API design, performance optimization, and bug fixes.
+
+- ⚡ Fun fact: Building autonomous agents and high-throughput TypeScript/Python systems.
