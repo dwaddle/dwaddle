@@ -32,9 +32,10 @@ Focused on high-reliability systems, zero-defect code quality, AST-driven pre-fl
 
 ---
 
-### 📊 GitHub Overview
+### 🌐 Connect & Contributions
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dwaddle&show_icons=true&theme=monokai&include_all_commits=true&count_private=true" alt="dwaddle's GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwaddle&layout=compact&theme=monokai&hide=html,css" alt="Top Languages" height="170" />
+  <a href="https://github.com/dwaddle"><img src="https://img.shields.io/github/followers/dwaddle?label=Followers&style=for-the-badge&color=238636&logo=github" alt="Followers" /></a>
+  <a href="https://github.com/dwaddle"><img src="https://img.shields.io/badge/Open%20Source-Active%20Contributor-238636?style=for-the-badge&logo=github" alt="Open Source Contributor" /></a>
+  <a href="https://github.com/dwaddle"><img src="https://img.shields.io/badge/Code%20Quality-Tier--1-blue?style=for-the-badge&logo=githubactions" alt="Tier 1 Quality" /></a>
 </p>
