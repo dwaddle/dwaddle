@@ -25,6 +25,19 @@ Focused on high-reliability systems, zero-defect code quality, AST-driven pre-fl
 
 ---
 
+### 🛰️ Featured Project: [Orbit CLI (`orbit-cli`)](https://github.com/dwaddle/orbit-cli)
+
+<p align="left">
+  <a href="https://github.com/dwaddle/orbit-cli"><img src="https://img.shields.io/badge/Project-Orbit_CLI-orange?style=for-the-badge&logo=rust&logoColor=white" alt="Orbit CLI" /></a>
+  <a href="https://github.com/dwaddle/orbit-cli"><img src="https://img.shields.io/badge/TUI-Ratatui-brightgreen?style=for-the-badge" alt="Ratatui TUI" /></a>
+  <a href="https://github.com/dwaddle/orbit-cli"><img src="https://img.shields.io/badge/Protocol-MCP-blue?style=for-the-badge" alt="Model Context Protocol" /></a>
+  <a href="https://github.com/dwaddle/orbit-cli"><img src="https://img.shields.io/badge/Powered%20By-OpenRouter-7928CA?style=for-the-badge" alt="OpenRouter" /></a>
+</p>
+
+* 🛰️ **[orbit-cli](https://github.com/dwaddle/orbit-cli)**: A lightweight, high-performance autonomous terminal AI coding agent written in **Rust**. Powered by OpenRouter, featuring real-time token streaming, Model Context Protocol (MCP) tool integration, autonomous subagent delegation, in-memory BM25 codebase indexing, and a fullscreen split-pane **Ratatui** TUI.
+
+---
+
 ### 📌 Core Specializations
 
 * 🚀 **Open Source Engineering**: Active contributor across major open-source ecosystems, implementing production-grade features, middleware guards, and concurrency fixes.
