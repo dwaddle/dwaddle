@@ -25,16 +25,26 @@ Focused on high-reliability systems, zero-defect code quality, AST-driven pre-fl
 
 ---
 
-### 🛰️ Featured Project: [Orbit CLI (`orbit-cli`)](https://github.com/dwaddle/orbit-cli)
+### ⚡ Creator of Orbit CLI (`orbit-cli`)
 
 <p align="left">
-  <a href="https://github.com/dwaddle/orbit-cli"><img src="https://img.shields.io/badge/Project-Orbit_CLI-orange?style=for-the-badge&logo=rust&logoColor=white" alt="Orbit CLI" /></a>
-  <a href="https://github.com/dwaddle/orbit-cli"><img src="https://img.shields.io/badge/TUI-Ratatui-brightgreen?style=for-the-badge" alt="Ratatui TUI" /></a>
+  <a href="https://github.com/dwaddle/orbit-cli/releases"><img src="https://img.shields.io/github/v/release/dwaddle/orbit-cli?color=brightgreen&label=Orbit%20Release&style=for-the-badge" alt="Orbit Latest Release" /></a>
+  <a href="https://github.com/dwaddle/orbit-cli/stargazers"><img src="https://img.shields.io/github/stars/dwaddle/orbit-cli?style=for-the-badge&logo=github&color=blue" alt="Orbit Stars" /></a>
+  <a href="https://github.com/dwaddle/orbit-cli"><img src="https://img.shields.io/badge/Language-Rust_2021-orange?style=for-the-badge&logo=rust&logoColor=white" alt="Rust 2021" /></a>
+  <a href="https://github.com/dwaddle/orbit-cli"><img src="https://img.shields.io/badge/Interface-Ratatui_TUI-brightgreen?style=for-the-badge" alt="Ratatui TUI" /></a>
   <a href="https://github.com/dwaddle/orbit-cli"><img src="https://img.shields.io/badge/Protocol-MCP-blue?style=for-the-badge" alt="Model Context Protocol" /></a>
-  <a href="https://github.com/dwaddle/orbit-cli"><img src="https://img.shields.io/badge/Powered%20By-OpenRouter-7928CA?style=for-the-badge" alt="OpenRouter" /></a>
 </p>
 
-* 🛰️ **[orbit-cli](https://github.com/dwaddle/orbit-cli)**: A lightweight, high-performance autonomous terminal AI coding agent written in **Rust**. Powered by OpenRouter, featuring real-time token streaming, Model Context Protocol (MCP) tool integration, autonomous subagent delegation, in-memory BM25 codebase indexing, and a fullscreen split-pane **Ratatui** TUI.
+I am actively designing and maintaining **[Orbit CLI](https://github.com/dwaddle/orbit-cli)** — a lightweight, high-performance terminal AI coding agent in pure **Rust**, powered by OpenRouter's multi-model API to bring state-of-the-art autonomous engineering workflows directly into the developer's shell.
+
+* **Fullscreen Split-Pane TUI (Ratatui)**: Responsive terminal interface featuring an interactive workspace file-tree browser, live active subagent task monitor, streaming chat, and interactive prompt (`--tui` / `/tui`).
+* **Model Context Protocol (MCP)**: Native client support for dynamic tool invocation across local and remote MCP servers, bridging LLMs with specialized external environments.
+* **Autonomous Subagents & DAG Workflows**: Background execution of delegated tasks, multi-turn tool loops, and parallel DAG multi-agent execution with zero-latency thread communication.
+* **Inverted BM25 Search & Symbol Outlines**: In-memory keyword search with camelCase/snake_case tokenization and multi-language symbol extraction across Rust, Python, TypeScript/JavaScript, and Go.
+* **Compiler Diagnostic Self-Healing**: AST Compile Guard (`cargo check`), automated Red-Green-Refactor TDD loops, sliding-window context compression, and automated adversarial code review pipelines.
+
+📖 **Documentation & Manual**: [MANUAL.md](https://github.com/dwaddle/orbit-cli/blob/main/MANUAL.md)
+⭐ **GitHub Repository**: [dwaddle/orbit-cli](https://github.com/dwaddle/orbit-cli)
 
 ---
 
